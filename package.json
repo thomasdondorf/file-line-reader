@@ -16,5 +16,9 @@
     "reader"
   ],
   "author": "Thomas Dondorf",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasdondorf/node-file-line-reader/issues"
+  },
+  "homepage": "https://github.com/thomasdondorf/node-file-line-reader"
 }
