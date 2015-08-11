@@ -1,5 +1,5 @@
 {
-  "name": "node-file-line-reader",
+  "name": "file-line-reader",
   "version": "1.0.0",
   "description": "Read files line by line with NodeJS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomasdondorf/node-file-line-reader.git"
+    "url": "https://github.com/thomasdondorf/file-line-reader.git"
   },
   "keywords": [
     "file",
@@ -18,7 +18,7 @@
   "author": "Thomas Dondorf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomasdondorf/node-file-line-reader/issues"
+    "url": "https://github.com/thomasdondorf/file-line-reader/issues"
   },
-  "homepage": "https://github.com/thomasdondorf/node-file-line-reader"
+  "homepage": "https://github.com/thomasdondorf/file-line-reader"
 }
