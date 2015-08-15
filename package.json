@@ -1,7 +1,7 @@
 {
   "name": "file-line-reader",
-  "version": "1.0.0",
-  "description": "Read files line by line with NodeJS",
+  "version": "1.0.1",
+  "description": "Read large files line by line with NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
