@@ -15,9 +15,10 @@ library will only load as many content of the file as necessary allowing to read
     
     var reader = new LineReader('longfile.txt');
     
+    // Reads the file line of the longfile.txt file
     reader.nextLine(function (err, line) {
         if (err) {
-            // file not found, not rights, ..
+            // file not found, no read rights, ..
         }
         
         console.log(line);
